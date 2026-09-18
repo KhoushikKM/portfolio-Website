@@ -1,5 +1,5 @@
 import React from 'react'
-import pdfFile from '../assets/IEEe.pdf';
+import pdfFile from '../assets/IEEE.pdf';
 import ElectricBorder from '../supporters/ElectricBorder';
 
 const Projects = () => {

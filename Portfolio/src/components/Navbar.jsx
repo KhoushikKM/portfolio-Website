@@ -1,5 +1,4 @@
 import React from 'react'
-import LiquidEther from '../supporters/LiquidEther';
 
 const Navbar = () => {
   return (
