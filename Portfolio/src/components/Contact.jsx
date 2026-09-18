@@ -1,4 +1,3 @@
-import React from 'react'
 import ElectricBorder from '../supporters/ElectricBorder'
 
 const Contact = () => {

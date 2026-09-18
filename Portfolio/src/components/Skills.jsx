@@ -1,4 +1,3 @@
-import React from 'react'
 import DomeGallery from '../supporters/DomeGallery'
 
 const Skills = () => {

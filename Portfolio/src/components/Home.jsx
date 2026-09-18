@@ -1,5 +1,3 @@
-import React from 'react'
-// import Iridescence from './Iridescence';
 import TextType from './TextType';
 import profile from '../assets/profile.jpg';
 
